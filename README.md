@@ -15,6 +15,14 @@
   <img align="center" alt="Guuh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ![Snake animation](https://github.com/GustaviNer1/GustavoNer1/blob/output/github-contribution-grid-snake.svg)
+  https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+  
+  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white 
+  
+  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+  
+  https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
+  
+
   
   
