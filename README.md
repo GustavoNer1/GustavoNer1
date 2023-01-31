@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Gustavo Neri 😉
 
-- Atualmente estou Estudando e a procura de um estágio na area de Desenvolvimento 🤞
-- Estou estudando SQL Server 🧠
+- tenho 21 anos de idade e atualmente estudo analise e desnvolvimento de sistemas na universidade cruzeiro do sul🤞
+- Estou estudando JAVA 🧠
 
 <div align="center">
   <a href="https://github.com/GustavoNer1">
