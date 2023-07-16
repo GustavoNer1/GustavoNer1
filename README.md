@@ -1,13 +1,13 @@
 ### Olá, Eu sou o Gustavo Neri 😉
 
-👨‍💻 No momento estou estudando fundamentos do NodeJS.
-📘 Participei no desenvolvimento de um site para clientes internacionais.
-🎓 Estudo na Universidade Cruzeiro do Sul 2022 - 06/2024.
+###👨‍💻 No momento estou estudando fundamentos do NodeJS.
+###📘 Participei no desenvolvimento de um site para clientes internacionais.
+###🎓 Estudo na Universidade Cruzeiro do Sul 2022 - 06/2024.
 
 Skills:
-🧩 Minha Stack: Java, BackEnd, SQL, Git, HTML e CSS.
-⚙ Conhecimento em Tecnologias como: Bootstrap, ReactJS.
-🛢 Conhecimento em Banco de Dados: MySQL e SQL Server.
+###🧩 Minha Stack: Java, BackEnd, SQL, Git, HTML e CSS. 
+###⚙ Conhecimento em Tecnologias como: Bootstrap, ReactJS.
+###🛢 Conhecimento em Banco de Dados: MySQL e SQL Server.
 
 <div align="center">
   <a href="https://github.com/GustavoNer1">
@@ -33,13 +33,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
-### Contato:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/gustavo-neri-585080209/" rel="nofollow">
-    <img src="logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/gustavo-neri-585080209/" style="max-width:100%;">
-  </a>
-</p>
   
  
   
