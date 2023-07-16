@@ -5,7 +5,7 @@
 📘 Participei no desenvolvimento de um site para clientes internacionais.<br>
 🎓 Estudo na Universidade Cruzeiro do Sul 2022 - 06/2024.<br>
 
-Skills:
+### SKILLS: <br>
 🧩 Minha Stack: Java, BackEnd, SQL, Git, HTML e CSS. <br>
 ⚙ Conhecimento em Tecnologias como: Bootstrap, ReactJS.<br>
 🛢 Conhecimento em Banco de Dados: MySQL e SQL Server.<br>
