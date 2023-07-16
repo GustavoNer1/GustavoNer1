@@ -36,8 +36,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/node
 ### Contato:
 
 <p align="left">
-  <a href="linkedin.com/in/gustavo-neri-585080209" rel="nofollow">
-    <img src="https://img.shields.io/badge/-Gustavo%20Neri-6633cc?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/gustavo-neri-585080209/" style="max-width:100%;">
+  <a href="https://www.linkedin.com/in/gustavo-neri-585080209/" rel="nofollow">
+    <img src="logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/gustavo-neri-585080209/" style="max-width:100%;">
   </a>
 </p>
   
