@@ -1,7 +1,13 @@
 ### Olá, Eu sou o Gustavo Neri 😉
 
-- tenho 21 anos de idade e atualmente estudo analise e desnvolvimento de sistemas na universidade cruzeiro do sul🤞
-- Estou estudando JAVA 🧠
+👨‍💻 No momento estou estudando fundamentos do NodeJS.
+📘 Participei no desenvolvimento de um site para clientes internacionais.
+🎓 Estudo na Universidade Cruzeiro do Sul 2022 - 06/2024.
+
+Skills:
+🧩 Minha Stack: Java, BackEnd, SQL, Git, HTML e CSS.
+⚙ Conhecimento em Tecnologias como: Bootstrap, ReactJS.
+🛢 Conhecimento em Banco de Dados: MySQL e SQL Server.
 
 <div align="center">
   <a href="https://github.com/GustavoNer1">
@@ -21,7 +27,19 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="Guuh-HTML" height="50" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="Guuh-HTML" height="50" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Guuh-HTML" height="50" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
+
+### Contato:
+
+<p align="left">
+  <a href="linkedin.com/in/gustavo-neri-585080209" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Gustavo%20Neri-6633cc?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/gustavo-neri-585080209/" style="max-width:100%;">
+  </a>
+</p>
   
  
   
