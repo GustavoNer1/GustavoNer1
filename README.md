@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gustavo Neri
+# Olá, eu sou o Gustavo Neri
 
 Sou **Desenvolvedor Júnior** com foco em **Python, automação de processos, integrações com APIs e agentes de IA**.
 
@@ -75,13 +75,3 @@ Atualmente estou focado em:
 - Qualificação automática de leads
 - Integrações entre CRM, banco de dados e IA
 - Estruturação de sistemas backend mais organizados
-
----
-
-## 📊 Estatísticas do GitHub
-
-## 📊 GitHub
-
-Você pode acompanhar meus projetos, estudos e evolução prática pelo meu perfil no GitHub.
-
-[![GitHub](https://img.shields.io/badge/GitHub-GustavoNer1-181717?style=for-the-badge&logo=github)](https://github.com/GustavoNer1)
