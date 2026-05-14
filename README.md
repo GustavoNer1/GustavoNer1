@@ -8,7 +8,7 @@ Meu objetivo é construir soluções que conectem tecnologia com resultado real 
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 - Desenvolvo automações para processos repetitivos usando **n8n**
 - Crio integrações com **APIs REST, Webhooks e CRMs**
@@ -19,7 +19,7 @@ Meu objetivo é construir soluções que conectem tecnologia com resultado real 
 
 ---
 
-## 🧠 Principais áreas de atuação
+## Principais áreas de atuação
 
 ### Automação de processos
 
@@ -39,7 +39,7 @@ Conexão entre sistemas usando APIs, Webhooks, bancos de dados e plataformas ext
 
 ---
 
-## 🛠️ Tecnologias que uso e estudo
+## Tecnologias que uso e estudo
 
 ### Backend
 
@@ -65,7 +65,7 @@ Conexão entre sistemas usando APIs, Webhooks, bancos de dados e plataformas ext
 
 ---
 
-## 📌 Projetos e estudos atuais
+## Projetos e estudos atuais
 
 Atualmente estou focado em:
 
