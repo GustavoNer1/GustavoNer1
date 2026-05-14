@@ -34,7 +34,6 @@ Trabalho com integrações via **Webhooks, APIs REST e bancos de dados**, conect
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="n8n" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg">
   <img align="center" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
@@ -48,37 +47,8 @@ Trabalho com integrações via **Webhooks, APIs REST e bancos de dados**, conect
 - **Automação:** n8n, Make, Typebot
 - **IA:** OpenAI, Groq, LangChain, LangGraph, RAG
 - **Comunicação:** WhatsApp Business API, Evolution API, Webhooks
-- **Dados:** SQL Server, PostgreSQL, MongoDB
+- **Dados:** SQL Server, PostgreSQL
 - **Frontend:** HTML, CSS, Bootstrap
 - **Integrações:** APIs REST, CRMs e sistemas externos
 
----
 
-## 📌 Áreas de interesse
-
-- Agentes de IA para atendimento e vendas
-- Automação de processos comerciais
-- Integração entre sistemas
-- Qualificação automática de leads
-- Chatbots para WhatsApp
-- APIs com Python e FastAPI
-- Sistemas com IA aplicados a negócios reais
-
----
-
-## 📊 Minhas estatísticas
-
-<div align="center">
-  <a href="https://github.com/GustavoNer1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoNer1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNer1&layout=compact&langs_count=7&theme=dark" />
-  </a>
-</div>
-
----
-
-## 📫 Vamos conversar?
-
-Estou sempre buscando aprender, construir projetos práticos e trocar ideias sobre automação, IA, Python e desenvolvimento de sistemas.
-
-Se quiser conversar sobre projetos, automações ou oportunidades, fique à vontade para entrar em contato.
