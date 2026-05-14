@@ -1,30 +1,36 @@
-# 👋 Olá, eu sou o Gustavo Neri!
+# 👋 Olá, eu sou o Gustavo Neri
 
-**Desenvolvedor Júnior | Automação de Processos & IA**
+**Desenvolvedor Júnior | Automação de Processos | IA aplicada a negócios**
 
-Apaixonado por transformar tarefas repetitivas em processos automáticos e inteligentes. Desenvolvo fluxos que conectam APIs, WhatsApp, bancos de dados e ferramentas de IA, tornando o dia a dia mais simples, rápido e eficiente.
+Sou desenvolvedor júnior com foco em **automação de processos, integrações com APIs e inteligência artificial**.
 
-Atualmente estou mergulhando fundo no **Python**, construindo agentes de IA e integrações cada vez mais robustas.
+Gosto de transformar tarefas repetitivas em fluxos automáticos, conectando sistemas, WhatsApp, bancos de dados, CRMs e ferramentas de IA para gerar mais produtividade e organização.
 
----
-
-## 🚀 O que eu venho construindo
-
-- 🤖 **Automação de Processos**  
-  Crio workflows complexos com **n8n** para atendimento ao cliente, qualificação de leads e gestão de CRM.
-
-- 💬 **Chatbots & WhatsApp Business API**  
-  Desenvolvo automações conversacionais, envio de notificações ativas e assistentes inteligentes.
-
-- 🧠 **Inteligência Artificial**  
-  Experimento com IA Generativa (OpenAI e Groq) + memória **RAG** para criar assistentes que realmente entendem o contexto.
-
-- 🔗 **Integrações e Dados**  
-  Conecto plataformas via Webhooks, APIs REST e faço modelagem/consultas em SQL Server.
+Atualmente estou aprofundando meus estudos em **Python, FastAPI, LangChain, LangGraph e agentes de IA**, com foco em criar soluções práticas para atendimento, qualificação de leads e automação comercial.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 O que venho construindo
+
+### 🤖 Automação de processos
+
+Desenvolvo workflows com **n8n** para automatizar processos comerciais, atendimento ao cliente, qualificação de leads, notificações e integração entre sistemas.
+
+### 💬 Chatbots e WhatsApp Business API
+
+Crio automações conversacionais para WhatsApp, incluindo atendimento automático, envio de mensagens ativas, menus interativos, fluxos de agendamento e integração com CRMs.
+
+### 🧠 Inteligência artificial aplicada
+
+Estudo e desenvolvo agentes de IA usando ferramentas como **OpenAI, Groq, LangChain e RAG**, com foco em assistentes que entendem contexto, seguem regras de negócio e executam ações úteis.
+
+### 🔗 Integrações e dados
+
+Trabalho com integrações via **Webhooks, APIs REST e bancos de dados**, conectando plataformas e organizando dados para automações mais confiáveis.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -34,15 +40,33 @@ Atualmente estou mergulhando fundo no **Python**, construindo agentes de IA e in
   <img align="center" alt="Bootstrap" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
-### ⚙️ Principais stacks
-- **Automação Low-code/No-code**: n8n, Make, Typebot  
-- **Comunicação**: WhatsApp Business API (Meta), Webhooks  
-- **Dados**: SQL Server  
-- **IA**: OpenAI, Groq, RAG
+---
+
+## ⚙️ Principais stacks
+
+- **Backend:** Python, FastAPI
+- **Automação:** n8n, Make, Typebot
+- **IA:** OpenAI, Groq, LangChain, LangGraph, RAG
+- **Comunicação:** WhatsApp Business API, Evolution API, Webhooks
+- **Dados:** SQL Server, PostgreSQL, MongoDB
+- **Frontend:** HTML, CSS, Bootstrap
+- **Integrações:** APIs REST, CRMs e sistemas externos
 
 ---
 
-## 📊 Minhas Estatísticas
+## 📌 Áreas de interesse
+
+- Agentes de IA para atendimento e vendas
+- Automação de processos comerciais
+- Integração entre sistemas
+- Qualificação automática de leads
+- Chatbots para WhatsApp
+- APIs com Python e FastAPI
+- Sistemas com IA aplicados a negócios reais
+
+---
+
+## 📊 Minhas estatísticas
 
 <div align="center">
   <a href="https://github.com/GustavoNer1">
@@ -53,4 +77,8 @@ Atualmente estou mergulhando fundo no **Python**, construindo agentes de IA e in
 
 ---
 
-💡 **Quer conversar sobre automação, IA ou trocar ideia sobre projetos?** É só chamar! 🚀
+## 📫 Vamos conversar?
+
+Estou sempre buscando aprender, construir projetos práticos e trocar ideias sobre automação, IA, Python e desenvolvimento de sistemas.
+
+Se quiser conversar sobre projetos, automações ou oportunidades, fique à vontade para entrar em contato.
