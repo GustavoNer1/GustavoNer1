@@ -1,36 +1,44 @@
-# 👋 Olá, eu sou o Gustavo Neri
+# 👋 Olá, eu sou o Gustavo Neri!
 
-**Desenvolvedor Júnior | Especialista em Automação & IA | Python & n8n**
+**Desenvolvedor Júnior | Automação de Processos & IA**
 
-Sou um desenvolvedor focado em otimizar processos e reduzir tarefas manuais através da tecnologia. Crio fluxos inteligentes que conectam APIs, WhatsApp e bancos de dados, transformando rotinas operacionais em sistemas automatizados e eficientes.
+Apaixonado por transformar tarefas repetitivas em processos automáticos e inteligentes. Desenvolvo fluxos que conectam APIs, WhatsApp, bancos de dados e ferramentas de IA, tornando o dia a dia mais simples, rápido e eficiente.
 
-Atualmente, estou dedicando meus estudos ao ecossistema **Python** para aprofundar a construção de **Agentes de IA** e integrações robustas.
-
----
-
-## 🧠 O que eu faço
-
-* 🤖 **Automação de Processos:** Desenvolvimento de workflows complexos com **n8n** para atendimento ao cliente, qualificação de leads e gestão de CRM.
-* 💬 **Chatbots & Assistentes:** Criação de automações para **WhatsApp Business API**, incluindo envio de notificações ativas e chatbots inteligentes.
-* 🧠 **Inteligência Artificial:** Implementação de soluções com **IA Generativa (OpenAI/Groq)** e uso de memória **RAG** para criar assistentes virtuais contextualizados.
-* 🔄 **Integrações:** Sincronização de dados entre plataformas via Webhooks e REST APIs.
+Atualmente estou mergulhando fundo no **Python**, construindo agentes de IA e integrações cada vez mais robustas.
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 🚀 O que eu venho construindo
+
+- 🤖 **Automação de Processos**  
+  Crio workflows complexos com **n8n** para atendimento ao cliente, qualificação de leads e gestão de CRM.
+
+- 💬 **Chatbots & WhatsApp Business API**  
+  Desenvolvo automações conversacionais, envio de notificações ativas e assistentes inteligentes.
+
+- 🧠 **Inteligência Artificial**  
+  Experimento com IA Generativa (OpenAI e Groq) + memória **RAG** para criar assistentes que realmente entendem o contexto.
+
+- 🔗 **Integrações e Dados**  
+  Conecto plataformas via Webhooks, APIs REST e faço modelagem/consultas em SQL Server.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="n8n" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg">
   <img align="center" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
-### ⚙️ Automação
-
-* **Low-code/No-code:** n8n, Make, Typebot
-* **Comunicação:** WhatsApp Business API (Meta), Webhooks
-* **Dados:** SQL Server (Modelagem, armazenamento e consultas)
+### ⚙️ Principais stacks
+- **Automação Low-code/No-code**: n8n, Make, Typebot  
+- **Comunicação**: WhatsApp Business API (Meta), Webhooks  
+- **Dados**: SQL Server  
+- **IA**: OpenAI, Groq, RAG
 
 ---
 
@@ -43,4 +51,6 @@ Atualmente, estou dedicando meus estudos ao ecossistema **Python** para aprofund
   </a>
 </div>
 
+---
 
+💡 **Quer conversar sobre automação, IA ou trocar ideia sobre projetos?** É só chamar! 🚀
