@@ -1,54 +1,104 @@
 # 👋 Olá, eu sou o Gustavo Neri
 
-**Desenvolvedor Júnior | Automação de Processos | IA aplicada a negócios**
+Sou **Desenvolvedor Júnior** com foco em **Python, automação de processos, integrações com APIs e agentes de IA**.
 
-Sou desenvolvedor júnior com foco em **automação de processos, integrações com APIs e inteligência artificial**.
+Atualmente estudo e desenvolvo soluções usando **FastAPI, LangChain, LangGraph, n8n, WhatsApp API e bancos de dados**, com foco em criar sistemas úteis para automação comercial, atendimento e qualificação de leads.
 
-Gosto de transformar tarefas repetitivas em fluxos automáticos, conectando sistemas, WhatsApp, bancos de dados, CRMs e ferramentas de IA para gerar mais produtividade e organização.
-
-Atualmente estou aprofundando meus estudos em **Python, FastAPI, LangChain, LangGraph e agentes de IA**, com foco em criar soluções práticas para atendimento, qualificação de leads e automação comercial.
+Meu objetivo é construir soluções que conectem tecnologia com resultado real para negócios.
 
 ---
 
-## 🚀 O que venho construindo
+## 🚀 Sobre mim
 
-### 🤖 Automação de processos
-
-Desenvolvo workflows com **n8n** para automatizar processos comerciais, atendimento ao cliente, qualificação de leads, notificações e integração entre sistemas.
-
-### 💬 Chatbots e WhatsApp Business API
-
-Crio automações conversacionais para WhatsApp, incluindo atendimento automático, envio de mensagens ativas, menus interativos, fluxos de agendamento e integração com CRMs.
-
-### 🧠 Inteligência artificial aplicada
-
-Estudo e desenvolvo agentes de IA usando ferramentas como **OpenAI, Groq, LangChain e RAG**, com foco em assistentes que entendem contexto, seguem regras de negócio e executam ações úteis.
-
-### 🔗 Integrações e dados
-
-Trabalho com integrações via **Webhooks, APIs REST e bancos de dados**, conectando plataformas e organizando dados para automações mais confiáveis.
+- Desenvolvo automações para processos repetitivos usando **n8n**
+- Crio integrações com **APIs REST, Webhooks e CRMs**
+- Estudo desenvolvimento backend com **Python e FastAPI**
+- Construo agentes de IA para atendimento, vendas e qualificação de leads
+- Trabalho com automações para **WhatsApp Business API**
+- Tenho interesse em sistemas com IA aplicados a negócios reais
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🧠 Principais áreas de atuação
 
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+### Automação de processos
+
+Criação de fluxos automatizados para atendimento, vendas, notificações, organização de dados e integração entre plataformas.
+
+### Inteligência Artificial
+
+Desenvolvimento de assistentes e agentes de IA com foco em contexto, regras de negócio, memória, ferramentas e execução de ações.
+
+### Backend com Python
+
+Construção de APIs, organização de projetos, autenticação, banco de dados, testes e boas práticas com FastAPI.
+
+### Integrações
+
+Conexão entre sistemas usando APIs, Webhooks, bancos de dados e plataformas externas.
+
+---
+
+## 🛠️ Tecnologias que uso e estudo
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Automação e IA
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Banco de dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📌 Projetos e estudos atuais
+
+Atualmente estou focado em:
+
+- APIs com **FastAPI**
+- Agentes de IA com **LangChain e LangGraph**
+- Automação de atendimento via **WhatsApp**
+- Qualificação automática de leads
+- Integrações entre CRM, banco de dados e IA
+- Estruturação de sistemas backend mais organizados
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoNer1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNer1&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
-## ⚙️ Principais stacks
+## 📫 Contato
 
-- **Backend:** Python, FastAPI
-- **Automação:** n8n, Make, Typebot
-- **IA:** OpenAI, Groq, LangChain, LangGraph, RAG
-- **Comunicação:** WhatsApp Business API, Evolution API, Webhooks
-- **Dados:** SQL Server, PostgreSQL
-- **Frontend:** HTML, CSS, Bootstrap
-- **Integrações:** APIs REST, CRMs e sistemas externos
+Se quiser conversar sobre automação, IA, Python ou desenvolvimento de sistemas, fique à vontade para me chamar.
 
-
+[![GitHub](https://img.shields.io/badge/GitHub-GustavoNer1-181717?style=for-the-badge&logo=github)](https://github.com/GustavoNer1)
